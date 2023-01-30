@@ -1,0 +1,135 @@
+/* header css */
+header{
+    height:auto;
+    background-color: #c7d8f9;
+}
+header img{
+    height: auto;
+    max-height: 40px;;
+}
+header ul{
+    padding: 20px;
+    float: right;
+}
+header div ul li{
+    font-size: 18px;
+    font-weight: bold;
+    float: left;
+    list-style-type:none ;
+    margin-right: 25px;
+}
+header div ul li a{
+    text-decoration: none;
+    color: black;
+}
+header div ul li:hover{
+    background-color: red;
+    color: white;
+} 
+
+
+/* section css */
+section{
+    height:300px;
+    background-color: #c75f5f;
+}
+section h3{
+    color:white;
+    text-align: center;
+    padding-top:130px;
+   
+}
+
+
+
+.form-control {
+    border: none;
+    border-bottom: 1px solid #d9d9d9;
+    padding-left: 0;
+    padding-right: 0;
+    border-radius: 0;
+ }
+
+.form-control:active, .form-control:focus {
+      outline: none;
+      -webkit-box-shadow: none;
+      box-shadow: none;
+      border-color: #000;
+}
+  
+  .btn, .form-control {
+    height: 55px;
+ }
+
+
+
+
+
+.name1{
+    border-bottom:2px solid black;
+}
+.cname{
+    margin-top:50px;
+    border-bottom:2px solid black;
+}
+
+
+.Countrycode{
+    border: none;
+    border-bottom:2px solid black;
+    width:26%;
+
+}
+.message{
+    border: none;
+    border-bottom:2px solid black;
+    /* margin-top:65px; */
+    width:96%;
+}
+
+.bt{
+    margin-top:60px;
+    border:2px solid #f13624;
+    color:white;
+    background-color:#f13624;
+    width:100px;
+    height:45px;
+}
+/* css for other main part */
+.part2{
+    border:2px solid #f13624;
+    
+}
+
+.bold{
+    font-weight: bold;
+    margin-top:30px;
+}
+.setborder1{
+    font-size: 1.2rem;
+    display: inline;
+    border-bottom: 2px solid #f13624;
+    
+    
+}
+
+.set1{
+    margin-top:50px;
+    font-weight: bold;
+
+}
+
+/* footer css */
+
+footer{
+    background-color: #c7d8f9;
+    height:80px;
+
+}
+footer p{
+    text-align: center;
+    font-weight: bold;
+    padding-top:25px;
+}
+
+
